@@ -1,0 +1,2 @@
+2018-12-16T03:21:58+00:00 NOTICE Unable to download GeoIP Database: cURL error 7: Failed to connect to geolite.maxmind.com port 80: Timed out
+2018-12-16T03:24:11+00:00 NOTICE Unable to download GeoIP Database: cURL error 7: Failed to connect to geolite.maxmind.com port 80: Timed out
