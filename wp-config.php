@@ -21,6 +21,7 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'smartphone');
+// define('DB_NAME', 'hce-smartphone-local');
 
 /** MySQL database username */
 define('DB_USER', 'root');
